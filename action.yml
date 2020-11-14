@@ -1,5 +1,5 @@
-name: 'XML Lint'
-description: 'Lint XML files with xmllint'
+name: 'XML 2020'
+description: 'XSLT-based linting for XML and XSD Files'
 inputs:
   xml-file:
     description: 'The source (.xml) file'
